@@ -1,0 +1,10 @@
+C:\Users\305-10\Desktop\Гурина ПР-21\prKol_ind2_v1_Gurina\bin\Debug\prKol_ind2_v1_Gurina.exe.config
+C:\Users\305-10\Desktop\Гурина ПР-21\prKol_ind2_v1_Gurina\bin\Debug\prKol_ind2_v1_Gurina.exe
+C:\Users\305-10\Desktop\Гурина ПР-21\prKol_ind2_v1_Gurina\bin\Debug\prKol_ind2_v1_Gurina.pdb
+C:\Users\305-10\Desktop\Гурина ПР-21\prKol_ind2_v1_Gurina\obj\Debug\prKol_ind2_v1_Gurina.csproj.AssemblyReference.cache
+C:\Users\305-10\Desktop\Гурина ПР-21\prKol_ind2_v1_Gurina\obj\Debug\prKol_ind2_v1_Gurina.Form1.resources
+C:\Users\305-10\Desktop\Гурина ПР-21\prKol_ind2_v1_Gurina\obj\Debug\prKol_ind2_v1_Gurina.Properties.Resources.resources
+C:\Users\305-10\Desktop\Гурина ПР-21\prKol_ind2_v1_Gurina\obj\Debug\prKol_ind2_v1_Gurina.csproj.GenerateResource.cache
+C:\Users\305-10\Desktop\Гурина ПР-21\prKol_ind2_v1_Gurina\obj\Debug\prKol_ind2_v1_Gurina.csproj.CoreCompileInputs.cache
+C:\Users\305-10\Desktop\Гурина ПР-21\prKol_ind2_v1_Gurina\obj\Debug\prKol_ind2_v1_Gurina.exe
+C:\Users\305-10\Desktop\Гурина ПР-21\prKol_ind2_v1_Gurina\obj\Debug\prKol_ind2_v1_Gurina.pdb
