@@ -1,7 +1,0 @@
-C:\Users\305-10\Desktop\Гурина ПР-21\prKol_ind2_Gurina\bin\Debug\prKol_ind2_Gurina.exe.config
-C:\Users\305-10\Desktop\Гурина ПР-21\prKol_ind2_Gurina\bin\Debug\prKol_ind2_Gurina.exe
-C:\Users\305-10\Desktop\Гурина ПР-21\prKol_ind2_Gurina\bin\Debug\prKol_ind2_Gurina.pdb
-C:\Users\305-10\Desktop\Гурина ПР-21\prKol_ind2_Gurina\obj\Debug\prKol_ind2_Gurina.csproj.AssemblyReference.cache
-C:\Users\305-10\Desktop\Гурина ПР-21\prKol_ind2_Gurina\obj\Debug\prKol_ind2_Gurina.csproj.CoreCompileInputs.cache
-C:\Users\305-10\Desktop\Гурина ПР-21\prKol_ind2_Gurina\obj\Debug\prKol_ind2_Gurina.exe
-C:\Users\305-10\Desktop\Гурина ПР-21\prKol_ind2_Gurina\obj\Debug\prKol_ind2_Gurina.pdb
